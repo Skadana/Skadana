@@ -1,0 +1,3 @@
+[submodule "Skadana"]
+	path = Skadana
+	url = https://github.com/Skadana/Skadana.git
